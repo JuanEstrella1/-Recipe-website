@@ -11,7 +11,7 @@ El proyecto fue realizado aplicando la metodología **Atomic Desing** creando un
 códigos cortos y facilitando el mantenimiento, también utilizamos la metodología **BEM** para nombrar las clases dentro del proyecto. 
 
 **English**
-
+# CSS Architecture - Course Project
 
 Project from the CSS Architecture course at Alura LATAM, this project is the website of a recipe site called Fruta & Fruto, built 
 during the course in collaboration with the instructor, Jeanmarie Quijada.
